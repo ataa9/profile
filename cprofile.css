@@ -1,0 +1,29 @@
+body section div img
+{
+	height: 300px;
+	width: 250px;
+	margin-top: 20px;
+}
+
+div div span img{
+	height: 30px;
+	width: 30px;
+
+}
+div div span.line{
+	vertical-align: -10px;
+}
+div  span.skills img{
+	margin-left: 10px;
+	width: 30px;
+	height: 30px;
+}
+div span.skills span.line{
+	margin-left: 10px;
+	vertical-align: -10px;
+}
+div progress
+{
+  color: green;
+}
+
